@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(226, 221, 221);
+    font-family: Verdana, Arial, sans-serif;
+}
+nav {
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+nav a{
+    color:rgb(219, 96, 14);;
+}
+li a {
+    color: rgb(219, 96, 14);
+}
+h1 {
+    color:rgb(131, 95, 95);
+    text-align: center;
+    font-size: 34px;
+    padding: 4px;
+    border-radius: 8px/10px;
+}
+
+h2 {
+    color:rgb(131, 95, 95);
+    border-bottom: spx solid;
+    padding: 4px;
+    border-radius: 8px/10px;
+    
+}
+table {
+    width: 80%;
+    empty-cells:hide;
+    border-collapse: collapse;
+    margin: auto;
+    border: 1px solid;
+}
+th,td {
+    width: 30%;
+    padding: 2%;
+}
+th{
+    background-color: #509da3;
+    color:rgb(40, 31, 31);
+    font-size: 30px;
+}
+.tarifas1{
+    background-color: #859da6;
+    border: 1px solid black;
+}
+
+td {
+    background-color: #ccd0d1;
+    font-size: 18px;
+    color:rgb(40, 31, 31);
+    border: 1px solid;
+}
+
+

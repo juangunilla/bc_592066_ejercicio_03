@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(226, 221, 221);
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1 {
+    color:rgb(131, 95, 95);
+    text-align: center;
+    font-size: 34px;
+    padding: 4px;   
+    border-radius: 5px/8px;
+}
+
+h2 {
+    background-color:rgb(131, 95, 95);
+    color:rgb(228, 216, 216);  
+    border-bottom: spx solid;
+    padding: 4px; 
+    border-radius: 8px/10px;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    text-align: center;
+}
+.parrafo2{
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    margin: 2px;
+    padding: 5px;
+}
